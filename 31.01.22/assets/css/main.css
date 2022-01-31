@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		color: #999999;
+		color: white;
 	}
 
 	html, input, select, textarea {
@@ -2755,6 +2755,7 @@ input, select, textarea {
 
 		.spotlight .image {
 			width: 30%;
+			border: 1px solid red;
 			border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
@@ -2762,7 +2763,7 @@ input, select, textarea {
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				/*border-radius: 100%;*/
 				width: 100%;
 			}
 
@@ -2918,7 +2919,7 @@ input, select, textarea {
 
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
-		background-color: #eb2d20;
+		background-color: #799E15;
 		border-bottom: solid 2px #eeeeee;
 	}
 
