@@ -3083,7 +3083,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: rgba(23, 24, 32, 0.95);
+			background: rgba(266,19,209,0.7);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3139,15 +3139,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: rgba(11,152,207,0.95);
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: rgba(11,152,207,0.95);
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: rgba(11,152,207,0.95);
 		}
 
 		.spotlight.inactive .content {
